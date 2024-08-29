@@ -2,6 +2,7 @@ package com.gita.jambu;
 
 import android.os.Bundle;
 
+//example
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
